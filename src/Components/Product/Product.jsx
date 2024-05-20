@@ -27,7 +27,7 @@ function Product() {
 				<div className={classes.porduct__container}>
 					{Products &&
 						Products?.map((singleProduct) => (
-							<ProductCard product={singleProduct} key={singleProduct.id} />
+							<ProductCard product={singleProduct} key={singleProduct.id} renderAdd={true}/>
 						))}
 				</div>
 			)}
