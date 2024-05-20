@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazon-clone-2024/static/css/main.d1a1f9e3.css",
+    "main.js": "/amazon-clone-2024/static/js/main.bb45b668.js",
+    "static/media/10007.jpg": "/amazon-clone-2024/static/media/10007.2f5cc63b7e4512dd2789.jpg",
+    "static/media/electronics.jpg": "/amazon-clone-2024/static/media/electronics.974e0fd2b648f3f15295.jpg",
+    "static/media/10008.jpg": "/amazon-clone-2024/static/media/10008.805821d23a3f63566f17.jpg",
+    "static/media/10006.jpg": "/amazon-clone-2024/static/media/10006.af535717a7579eabdac4.jpg",
+    "static/media/10009.jpg": "/amazon-clone-2024/static/media/10009.225aaef918f59e5de14a.jpg",
+    "static/media/jewelery.jpg": "/amazon-clone-2024/static/media/jewelery.9e3ed6490dcd1a2bc852.jpg",
+    "static/media/men-clothing.jpg": "/amazon-clone-2024/static/media/men-clothing.12f8600c1e610b6d5222.jpg",
+    "static/media/women-clothing.jpg": "/amazon-clone-2024/static/media/women-clothing.0c4d11b3a4bf5cc1e00f.jpg",
+    "static/media/10010.jpg": "/amazon-clone-2024/static/media/10010.7f4a5ddb4ca2c826301e.jpg",
+    "index.html": "/amazon-clone-2024/index.html",
+    "main.d1a1f9e3.css.map": "/amazon-clone-2024/static/css/main.d1a1f9e3.css.map",
+    "main.bb45b668.js.map": "/amazon-clone-2024/static/js/main.bb45b668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a1f9e3.css",
+    "static/js/main.bb45b668.js"
+  ]
+}
