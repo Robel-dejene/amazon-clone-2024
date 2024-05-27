@@ -1,10 +1,10 @@
 import "./App.css";
 import React, { useContext, useEffect } from "react";
-import CarouselEffect from "./Components/Carousel/Carousel";
-import Category from "./Components/Category/Category.jsx";
-import Header from "./Components/Header/Header";
-import Product from "./Components/Product/Product.jsx";
-import LandingPage from "./Pages/LandingPage/LandingPage.jsx";
+// import CarouselEffect from "./Components/Carousel/Carousel";
+// import Category from "./Components/Category/Category.jsx";
+// import Header from "./Components/Header/Header";
+// import Product from "./Components/Product/Product.jsx";
+// import LandingPage from "./Pages/LandingPage/LandingPage.jsx";
 import Routing from "./Router.jsx";
 import { DataContext } from "./Components/DataProvider/DataProvider.jsx";
 import { Type } from "./Utility/Action.type.jsx";
